@@ -16,7 +16,7 @@ export default function Home() {
           <h1>Estórias pra <span>brincar</span></h1>
           <p>
           Tenha acesso a todas as publicações<br />
-          <span>por R$9,90 por mês</span>
+          <span>por R$9,90 aos mês</span>
         </p>
         <SubscribeButton />
         </section>
